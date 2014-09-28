@@ -8,3 +8,4 @@ L'objectif est :
 * 2 fichiers 
 * 4 commits
 
+Le projet contient un simple fichier HTML et un fichier JS. 
